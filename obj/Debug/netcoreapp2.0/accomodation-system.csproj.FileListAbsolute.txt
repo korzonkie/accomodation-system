@@ -1,0 +1,10 @@
+/home/korzonkie/Documents/kuba/accomodation-system/bin/Debug/netcoreapp2.0/accomodation-system.deps.json
+/home/korzonkie/Documents/kuba/accomodation-system/bin/Debug/netcoreapp2.0/accomodation-system.runtimeconfig.json
+/home/korzonkie/Documents/kuba/accomodation-system/bin/Debug/netcoreapp2.0/accomodation-system.runtimeconfig.dev.json
+/home/korzonkie/Documents/kuba/accomodation-system/bin/Debug/netcoreapp2.0/accomodation-system.dll
+/home/korzonkie/Documents/kuba/accomodation-system/bin/Debug/netcoreapp2.0/accomodation-system.pdb
+/home/korzonkie/Documents/kuba/accomodation-system/obj/Debug/netcoreapp2.0/accomodation-system.csproj.CoreCompileInputs.cache
+/home/korzonkie/Documents/kuba/accomodation-system/obj/Debug/netcoreapp2.0/accomodation-system.AssemblyInfoInputs.cache
+/home/korzonkie/Documents/kuba/accomodation-system/obj/Debug/netcoreapp2.0/accomodation-system.AssemblyInfo.cs
+/home/korzonkie/Documents/kuba/accomodation-system/obj/Debug/netcoreapp2.0/accomodation-system.dll
+/home/korzonkie/Documents/kuba/accomodation-system/obj/Debug/netcoreapp2.0/accomodation-system.pdb
